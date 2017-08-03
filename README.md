@@ -1,4 +1,4 @@
-# SENZ004 Magnetic Sensor
+# SENZ004 Digital Magnetic Sensor
 
 ### Introduction
 
